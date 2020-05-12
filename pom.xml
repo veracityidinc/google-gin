@@ -5,6 +5,7 @@
 
   <groupId>io.github.gwtplus.gin</groupId>
   <artifactId>gin</artifactId>
+  <!-- upon tagging set version as follows: gin_version.guice_version.patch_version; e.g. 300.422.0 -->
   <version>HEAD-SNAPSHOT</version>
   <packaging>jar</packaging>
 
